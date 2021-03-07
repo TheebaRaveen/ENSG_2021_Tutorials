@@ -126,7 +126,6 @@ Give user a privilege to switch to root as administator.
 usermod -G wheel "formation"
 vim  /etc/pam.d/su
 ```
-
 Uncomment line 6 to look like one shown below.
 
 ```
